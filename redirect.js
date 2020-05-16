@@ -36,4 +36,4 @@ function render404Page(slug) {
 `;
 }
 
-export { redirect };
+module.exports = redirect;

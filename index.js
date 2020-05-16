@@ -1,4 +1,4 @@
-import dotenv from 'dotenv-safe';
+const dotenv = require('dotenv-safe');
 // load environment variables and check for them
 try {
   dotenv.config();
@@ -7,11 +7,11 @@ try {
   process.exit(1);
 }
 
-import fs from 'fs';
-import Yaml from 'yaml';
-import Koa from 'koa';
+const fs = require('fs');
+const Yaml = require('yaml');
+const Koa = require('koa');
 
-import { redirect } from './redirect.js';
+const redirect = require('./redirect.js');
 
 let LINKS;
 
