@@ -1,17 +1,12 @@
 - slug: example
   href: https://www.example.com/
   title: Example Page
+  disabled: false # set to true to disable this redirect (TODO: implement this)
   comment: >-
     This is an example entry to show how the links data is structured.
     It's also used for testing that the link generating functionality is working.
-- slug: disabled
-  href: https://www.example.com/
-  title: Example Page (Disabled)
-  disabled: true
-  comment: >-
-    This is an example entry to show how to disable a link
-- slug: home
-  href: https://www.linguisticsafterdark.com/
-  title: Linguistics After
-  comment: >-
-    The mothership!
+
+# In general, label show notes links like "3-topic2" where 3 means episode 3, and 2 means it's the second link on that
+# topic from that episode. If there's only one link, you can leave off the last number
+- slug: 4-skosh
+  href: https://books.google.com/ngrams/graph?content=scooch,skosh,scootch&case_insensitive=on&year_start=1800&year_end=2008&corpus=15&smoothing=7&share=&direct_url=t4%3B%2Cscooch%3B%2Cc0%3B%2Cs0%3B%3Bscooch%3B%2Cc0%3B%3BScooch%3B%2Cc0%3B.t4%3B%2Cskosh%3B%2Cc0%3B%2Cs0%3B%3Bskosh%3B%2Cc0%3B%3BSkosh%3B%2Cc0%3B.t4%3B%2Cscootch%3B%2Cc0%3B%2Cs0%3B%3BScootch%3B%2Cc0%3B%3Bscootch%3B%2Cc0t4;,scooch;,c0;,s0;;scooch;,c0;;Scooch;,c0;.t4;,skosh;,c0;,s0;;skosh;,c0;;Skosh;,c0;.t4;,scootch;,c0;,s0;;Scootch;,c0;;scootch;,c0#t4%3B%2Cscooch%3B%2Cc0%3B%2Cs0%3B%3Bscooch%3B%2Cc0%3B%3BScooch%3B%2Cc0%3B.t4%3B%2Cskosh%3B%2Cc0%3B%2Cs0%3B%3Bskosh%3B%2Cc0%3B%3BSkosh%3B%2Cc0%3B.t4%3B%2Cscootch%3B%2Cc0%3B%2Cs0%3B%3BScootch%3B%2Cc0%3B%3Bscootch%3B%2Cc0
