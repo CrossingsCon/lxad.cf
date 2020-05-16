@@ -1,0 +1,17 @@
+- slug: example
+  href: https://www.example.com/
+  title: Example Page
+  comment: >-
+    This is an example entry to show how the links data is structured.
+    It's also used for testing that the link generating functionality is working.
+- slug: disabled
+  href: https://www.example.com/
+  title: Example Page (Disabled)
+  disabled: true
+  comment: >-
+    This is an example entry to show how to disable a link
+- slug: home
+  href: https://www.linguisticsafterdark.com/
+  title: Linguistics After
+  comment: >-
+    The mothership!

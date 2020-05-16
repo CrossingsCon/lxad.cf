@@ -1,0 +1,24 @@
+{
+  "name": "lxad.cf",
+  "version": "1.0.0",
+  "description": "Short links for Linguistics After Dark show notes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrossingsCon/lxad.cf.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/CrossingsCon/lxad.cf/issues"
+  },
+  "homepage": "https://github.com/CrossingsCon/lxad.cf#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "yaml": "^1.10.0"
+  }
+}
