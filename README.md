@@ -49,6 +49,6 @@ Long story short, it's left over from when I thought I could do this on GitHub p
 
 # TODO
 
-[ ] Add a homepage of some kind at _/_
-[ ] Add brand-appropriate styling to the 404 page
-[ ] Add analytics of some kind (maybe?)
+- [ ] Add a homepage of some kind at _/_
+- [ ] Add brand-appropriate styling to the 404 page
+- [ ] Add analytics of some kind (maybe?)
