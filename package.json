@@ -4,7 +4,7 @@
   "description": "Short links for Linguistics After Dark show notes",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=80 node ./index.js",
+    "start": "node ./index.js",
     "start:local": "PORT=8888 node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
