@@ -28,6 +28,10 @@ try {
 const app = new Koa();
 
 // load in middleware as needed
+app.use(async function(ctx, next) {
+  ctx.response.server = 'Linkuistics After Dark';
+  next();
+});
 app.use(redirect(LINKS));
 
 // start listening
