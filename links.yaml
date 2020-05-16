@@ -2,8 +2,8 @@
 # This section is for links we might want to refer to often or don't belong to an episode
 - slug: example
   href: https://www.example.com/
-  title: Example Page
   disabled: false # set to true to disable this redirect (TODO: implement this)
+  title: Example Page
   comment: >-
     This is an example entry to show how the links data is structured.
     It's also used for testing that the link generating functionality is working.
