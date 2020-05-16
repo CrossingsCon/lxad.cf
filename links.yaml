@@ -1,3 +1,5 @@
+# General links
+# This section is for links we might want to refer to often or don't belong to an episode
 - slug: example
   href: https://www.example.com/
   title: Example Page
@@ -5,8 +7,34 @@
   comment: >-
     This is an example entry to show how the links data is structured.
     It's also used for testing that the link generating functionality is working.
+- slug: music
+  href: https://incompetech.filmmusic.io/song/3558-covert-affair
+  comment: >-
+    Crediting the artist and linking to this page is part of the license of using the music.
+- slug: vowel-chart
+  href: https://allthingslinguistic.com/post/67308552090/how-to-remember-the-ipa-vowel-chart
 
-# In general, label show notes links like "3-topic2" where 3 means episode 3, and 2 means it's the second link on that
-# topic from that episode. If there's only one link, you can leave off the last number
+# Show notes links
+# In general, slug show notes links like "3-topic" where 3 means "episode 3"
+- slug: 4-lamerger
+  href: http://www4.uwm.edu/FLL/linguistics/dialect/staticmaps/q_15.html
 - slug: 4-skosh
   href: https://books.google.com/ngrams/graph?content=scooch,skosh,scootch&case_insensitive=on&year_start=1800&year_end=2008&corpus=15&smoothing=7&share=&direct_url=t4%3B%2Cscooch%3B%2Cc0%3B%2Cs0%3B%3Bscooch%3B%2Cc0%3B%3BScooch%3B%2Cc0%3B.t4%3B%2Cskosh%3B%2Cc0%3B%2Cs0%3B%3Bskosh%3B%2Cc0%3B%3BSkosh%3B%2Cc0%3B.t4%3B%2Cscootch%3B%2Cc0%3B%2Cs0%3B%3BScootch%3B%2Cc0%3B%3Bscootch%3B%2Cc0t4;,scooch;,c0;,s0;;scooch;,c0;;Scooch;,c0;.t4;,skosh;,c0;,s0;;skosh;,c0;;Skosh;,c0;.t4;,scootch;,c0;,s0;;Scootch;,c0;;scootch;,c0#t4%3B%2Cscooch%3B%2Cc0%3B%2Cs0%3B%3Bscooch%3B%2Cc0%3B%3BScooch%3B%2Cc0%3B.t4%3B%2Cskosh%3B%2Cc0%3B%2Cs0%3B%3Bskosh%3B%2Cc0%3B%3BSkosh%3B%2Cc0%3B.t4%3B%2Cscootch%3B%2Cc0%3B%2Cs0%3B%3BScootch%3B%2Cc0%3B%3Bscootch%3B%2Cc0
+- slug: 4-anglish
+  href: https://warwick.ac.uk/fac/cross_fac/complexity/people/students/dtc/students2011/maitland/fun/
+- slug: 4-epenthesis1
+  href: https://www.merriam-webster.com/dictionary/epenthesis
+  - slug: 4-epenthesis2
+  href: http://www.lel.ed.ac.uk/~wmaguire/ICEHL%20Iosad%20Maguire%20Presentation.pdf
+- slug: 4-hwaet
+  href: https://www.mhpbooks.com/did-everyone-get-the-first-line-of-beowulf-wrong-or-did-seamus-heaney-get-it-right/
+- slug: 4-stress1
+  href: https://pure.mpg.de/rest/items/item_77067_5/component/file_503904/content
+- slug: 4-stress2
+  href: https://recyt.fecyt.es/index.php/psi/article/viewFile/99/65
+- slug: 4-stress3
+  href: https://pdfs.semanticscholar.org/dc64/67f3c0d0ff60de5ee415541af99424de35b3.pdf
+- slug: 4-raising1
+  href: https://home.cc.umanitoba.ca/~krussll/phonetics/narrower/canadian-raising.html
+- slug: 4-raising2
+  href: http://www.yorku.ca/twainweb/troberts/raising.html
