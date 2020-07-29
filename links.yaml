@@ -13,6 +13,8 @@
     Crediting the artist and linking to this page is part of the license of using the music.
 - slug: vowel-chart
   href: https://allthingslinguistic.com/post/67308552090/how-to-remember-the-ipa-vowel-chart
+- slug: ipa-chart
+  href: https://www.internationalphoneticassociation.org/content/ipa-chart
 
 # Show notes links
 # In general, slug show notes links like "3-topic" where 3 means "episode 3"
@@ -38,3 +40,19 @@
   href: https://home.cc.umanitoba.ca/~krussll/phonetics/narrower/canadian-raising.html
 - slug: 4-raising2
   href: http://www.yorku.ca/twainweb/troberts/raising.html
+- slug: 5-SIL
+  href: https://www.sil.org/about
+- slug: 5-cursive
+  href: https://en.wikipedia.org/wiki/Cursive_forms_of_the_International_Phonetic_Alphabet
+- slug: 5-typepat
+  href: https://www.patreon.com/typeit
+- slug: 5-morphtype
+  href: http://linguistics.berkeley.edu/~jtmanker/Morphological%20Typology%20-%20Spring%202016%20-%20Ling%20100%20Guest%20Lecture.pdf
+- slug: 5-quenya
+  href: http://tolkiengateway.net/wiki/Quenya
+- slug: 5-sindarin
+  href: http://tolkiengateway.net/wiki/Sindarin
+- slug: 5-eldarin
+  href: https://en.wikipedia.org/wiki/Common_Eldarin
+- slug: 5-puzzle
+  href: https://stage.cartalk.com/content/bruno-and-bird-feeder
