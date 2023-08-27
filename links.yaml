@@ -23,9 +23,13 @@
   href: https://youtu.be/j-vftaTR5YA
   comment: >-
    social media
+- slug: volunteer
+  href: 
+  comment: >-
+   link to our hiring post
 
 # Show notes links
-# In general, slug show notes links like "3-topic" where 3 means "episode 3"
+# In general, slug show notes links like "3-topic" where 3 means "episode 3"; "L3-topic" where L3 means "live show 3"
 - slug: 4-lamerger
   href: http://www4.uwm.edu/FLL/linguistics/dialect/staticmaps/q_15.html
 - slug: 4-skosh
@@ -66,3 +70,36 @@
   href: https://mitpress.mit.edu/books/native-listening
 - slug: 5-puzzle
   href: https://stage.cartalk.com/content/bruno-and-bird-feeder
+- slug: L3-QP
+  href: https://www.foodandwine.com/news/why-chefs-love-kewpie-mayo
+- slug: L3-dess
+  href: https://www.commeunefrancaise.com/blog/dessus-dessous#:~:text=Dessus%20means%20%E2%80%9Con%20top%20of,%2C%20%E2%80%9Cdessus%20le%20canap%C3%A9.%E2%80%9D
+- slug: L3-OT
+  href: https://en.wikipedia.org/wiki/Optimality_Theory
+- slug: L3-thoth
+  href: https://www.youtube.com/playlist?list=PLc4s09N3L2h3HtaAYVqOVKGt2h6wRasw2
+- slug: L3-orange1
+  href: https://www.etymonline.com/word/orange
+- slug: L3-orange2
+  href: https://www.etymonline.com/word/Orangemen
+- slug: L3-TP1
+  href: https://blogit.utu.fi/ktmt/2023/06/07/carrying-pratchett-across-terry-pratchett-in-translation/
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+- slug: L3-
+  href: 
+
+- slug: L3-
+  href: 
